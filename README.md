@@ -4,6 +4,8 @@
 # Overview
 This repository contains the code and resources for a case study on predicting water potability. The project utilizes machine learning techniques to classify water samples as potable or non-potable based on various water quality parameters.
 
+![shutterstock_795331030](https://github.com/danish1341/Water_Portability/assets/167858464/0f5cba0c-c391-4ff9-9d6c-a395ee628805)
+
 # Table of Contents
 -1.Introduction
 -2.Dataset
