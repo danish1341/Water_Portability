@@ -39,6 +39,7 @@ The data_preprocessing.py script and corresponding Jupyter notebook handle the f
 The model.py script and Jupyter notebook cover:
 Model selection (e.g., Logistic Regression, Random Forest Classifier, Decision Tree Classifier,KNN Classifier)
 Training the models on the training data
+![Capture](https://github.com/danish1341/Water_Portability/assets/167858464/48f57ee5-4e19-45ef-b7ce-e91944411307)
 
 #Evaluation
 The evaluate.py script and Jupyter notebook include:
